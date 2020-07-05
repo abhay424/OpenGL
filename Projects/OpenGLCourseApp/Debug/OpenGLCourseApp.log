@@ -1,0 +1,4 @@
+﻿  main.cpp
+E:\Dev\Udemy\Opengl\Projects\OpenGLCourseApp\main.cpp(402,25): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+E:\Dev\Udemy\Opengl\Projects\OpenGLCourseApp\main.cpp(403,20): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+  OpenGLCourseApp.vcxproj -> E:\Dev\Udemy\Opengl\Projects\OpenGLCourseApp\Debug\OpenGLCourseApp.exe
